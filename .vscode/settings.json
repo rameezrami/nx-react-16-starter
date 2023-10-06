@@ -1,0 +1,10 @@
+{
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#076645",
+    "activityBar.background": "#0a433b",
+    "activityBar.color": "#FFF"
+  },
+  "explorer.compactFolders": true,
+  "explorer.fileNesting.enabled": false,
+  "explorer.incrementalNaming": "smart"
+}

@@ -8,7 +8,7 @@ tmp
 # dependencies
 node_modules
 
-# IDEs and editors
+# dev test files non-commit
 /.dev
 
 # IDEs and editors
